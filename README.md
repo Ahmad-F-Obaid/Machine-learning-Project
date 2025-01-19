@@ -6,4 +6,4 @@ The challenge lies in the fact that fraudulent transactions are exceedingly rare
 This project focuses on building an automated fraud detection system using machine learning techniques. By analyzing a dataset of financial transactions, the goal is to accurately classify transactions as fraudulent or non-fraudulent while addressing challenges such as class imbalance, feature engineering, and performance evaluation. Multiple machine learning models are explored, including LightGBM, Random Forest, and Support Vector Machines (SVM), and their performances are compared based on metrics such as precision, recall, F1-score, and accuracy.
 <br>
 
-[For more details](https://www.example.com "Visit Example.com").
+[For more details](https://www.example.com "Visit Example.com](https://1drv.ms/w/c/da4f5fe3b76c6d59/EXDKqNuFBOxMlwfBAoTecdQBYhQslhwhtQjunXdKAC3bRA?e=2LKSKk)").
